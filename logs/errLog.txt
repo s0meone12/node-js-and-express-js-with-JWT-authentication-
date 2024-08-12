@@ -1,0 +1,7 @@
+20240810	10:52:57	a30c6b78-87f6-4b49-a711-b61518aba7b6	Error Not allowed by CORS
+20240810	17:56:05	92b3b058-7656-43fd-afde-3f3db39b3f81	Error ENOENT: no such file or directory, stat 'C:\movies\views\subdir\test.html'
+20240810	17:56:09	19ea2e97-a8cf-455d-bf25-83eb3d8ad5fe	Error ENOENT: no such file or directory, stat 'C:\movies\views\subdir\test.html'
+20240810	17:56:10	a91fe317-3fc2-4047-b0c3-865a59b4558c	Error ENOENT: no such file or directory, stat 'C:\movies\views\subdir\test.html'
+20240810	17:56:33	f004e0a5-917c-4de5-8b60-d5289b375e8b	Error ENOENT: no such file or directory, stat 'C:\movies\views\subdir\test.html'
+20240810	18:07:27	7be12dda-45ba-4b40-aa89-2e4f76be748c	ReferenceError views is not defined
+20240810	18:07:27	2ba7e712-417f-4f42-bc25-bd0cb7f44233	ReferenceError views is not defined
